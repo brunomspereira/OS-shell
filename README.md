@@ -1,5 +1,5 @@
 # OS shell
-Shell developed in Operating Systems class
+Shell developed in Operating Systems class.
 
 ## **How to use**
 ```shell
